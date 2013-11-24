@@ -1,0 +1,120 @@
+/* Whianex Button Class */
+
+.button{
+	-webkit-border-top-left-radius:7px;
+	-moz-border-radius-topleft:7px;
+	border-top-left-radius:7px;
+	-webkit-border-top-right-radius:7px;
+	-moz-border-radius-topright:7px;
+	border-top-right-radius:7px;
+	-webkit-border-bottom-right-radius:7px;
+	-moz-border-radius-bottomright:7px;
+	border-bottom-right-radius:7px;
+	-webkit-border-bottom-left-radius:7px;
+	-moz-border-radius-bottomleft:7px;
+	border-bottom-left-radius:7px;
+	text-indent:0px;
+	display:inline-block;
+	font-family:Trebuchet MS;
+	font-size:14px;
+	font-weight:bold;
+	font-style:normal;
+	text-decoration:none;
+	text-align:center;
+	padding: 5px;
+
+}
+.button:active{
+	opacity: 0.67;
+	-ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity = 67);
+	filter: alpha(opacity = 67);
+}
+
+/* Button Color Settings */
+.but-red{
+	border:1px solid #ad1b14;
+	-moz-box-shadow:inset 0px 1px 0px 0px #f0a29e;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #f0a29e;
+	box-shadow:inset 0px 1px 0px 0px #f0a29e;
+	background-color:#e8453c;
+	text-shadow:1px 1px 0px #8f2b2b;
+	color:#ffffff;
+}
+.but-green{
+	border:1px solid #447334;
+	-moz-box-shadow:inset 0px 1px 0px 0px #B4D7A8;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #B4D7A8;
+	box-shadow:inset 0px 1px 0px 0px #B4D7A8;
+	background-color:#63A74D;
+	text-shadow:1px 1px 0px #447334;
+	color:#ffffff;
+}
+.but-blue{
+	border:1px solid #1077A9;
+	-moz-box-shadow:inset 0px 1px 0px 0px #9CD9F5;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #9CD9F5;
+	box-shadow:inset 0px 1px 0px 0px #9CD9F5;
+	background-color:#159BDB;
+	text-shadow:1px 1px 0px #1077A9;
+	color:#ffffff;
+}
+.but-orange{
+	border:1px solid #BE8707;
+	-moz-box-shadow:inset 0px 1px 0px 0px #FBDD97;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #FBDD97;
+	box-shadow:inset 0px 1px 0px 0px #FBDD97;
+	background-color:#F1AC0A;
+	text-shadow:1px 1px 0px #BE8707;
+	color:#ffffff;
+}
+.but-gray{
+	border:1px solid #9F9F9F;
+	-moz-box-shadow:inset 0px 1px 0px 0px #F0F0F0;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #F0F0F0;
+	box-shadow:inset 0px 1px 0px 0px #F0F0F0;
+	background-color:#B9B9B9;
+	text-shadow:1px 1px 0px #9F9F9F;
+	color:#ffffff;
+}
+.but-black{
+	border:1px solid #1E1E1E;
+	-moz-box-shadow:inset 0px 1px 0px 0px #8D8D8D;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #8D8D8D;
+	box-shadow:inset 0px 1px 0px 0px #8D8D8D;
+	background-color:#2E2E2E;
+	text-shadow:1px 1px 0px #1E1E1E;
+	color:#ffffff;
+}
+
+/* Button Size Settings */
+.but-xxsmall{
+	font-size: 5px !important;
+}
+.but-xsmall{
+	font-size: 6px !important;
+}
+.but-small{
+	font-size: 7px !important;
+}
+.but-medium{
+	font-size: 10px !important;
+}
+.but-normal{
+	font-size: 12px !important;
+}
+.but-large{
+	font-size: 16px !important;
+}
+.but-xlarge{
+	font-size: 20px !important;
+}
+.but-xxlarge{
+	font-size: 25px !important;
+}
+.but-xxxlarge{
+	font-size: 30px !important;
+}
+.but-xxxxlarge{
+	font-size:  45px !important;
+}
+
