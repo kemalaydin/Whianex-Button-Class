@@ -33,54 +33,36 @@
 /* Button Color Settings */
 .but-red{
 	border:1px solid #ad1b14;
-	-moz-box-shadow:inset 0px 1px 0px 0px #f0a29e;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #f0a29e;
-	box-shadow:inset 0px 1px 0px 0px #f0a29e;
 	background-color:#e8453c;
 	text-shadow:1px 1px 0px #8f2b2b;
 	color:#ffffff;
 }
 .but-green{
 	border:1px solid #447334;
-	-moz-box-shadow:inset 0px 1px 0px 0px #B4D7A8;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #B4D7A8;
-	box-shadow:inset 0px 1px 0px 0px #B4D7A8;
 	background-color:#63A74D;
 	text-shadow:1px 1px 0px #447334;
 	color:#ffffff;
 }
 .but-blue{
 	border:1px solid #1077A9;
-	-moz-box-shadow:inset 0px 1px 0px 0px #9CD9F5;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #9CD9F5;
-	box-shadow:inset 0px 1px 0px 0px #9CD9F5;
 	background-color:#159BDB;
 	text-shadow:1px 1px 0px #1077A9;
 	color:#ffffff;
 }
 .but-orange{
 	border:1px solid #BE8707;
-	-moz-box-shadow:inset 0px 1px 0px 0px #FBDD97;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #FBDD97;
-	box-shadow:inset 0px 1px 0px 0px #FBDD97;
 	background-color:#F1AC0A;
 	text-shadow:1px 1px 0px #BE8707;
 	color:#ffffff;
 }
 .but-gray{
 	border:1px solid #9F9F9F;
-	-moz-box-shadow:inset 0px 1px 0px 0px #F0F0F0;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #F0F0F0;
-	box-shadow:inset 0px 1px 0px 0px #F0F0F0;
 	background-color:#B9B9B9;
 	text-shadow:1px 1px 0px #9F9F9F;
 	color:#ffffff;
 }
 .but-black{
 	border:1px solid #1E1E1E;
-	-moz-box-shadow:inset 0px 1px 0px 0px #8D8D8D;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #8D8D8D;
-	box-shadow:inset 0px 1px 0px 0px #8D8D8D;
 	background-color:#2E2E2E;
 	text-shadow:1px 1px 0px #1E1E1E;
 	color:#ffffff;
