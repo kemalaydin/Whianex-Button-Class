@@ -1,0 +1,64 @@
+/* Whianex Input Class */
+
+.input-text{
+	padding : 5px;
+	border: none;
+}
+input:focus, textarea:focus{
+	outline: none;
+}
+.inp-search{
+	background-color: #EFEFEF;
+	width: 470px;
+	border-radius: 5px;
+	padding: 10px;
+	color: #333333;
+	background-image: url("../img/icon-search.png");
+	background-origin: content-box;
+	background-repeat: no-repeat;
+	background-position: right;
+
+}
+.inp-search:focus{
+	background: #DBDBDB;
+	background-image: url("../img/icon-search_hover.png");
+	background-origin: content-box;
+	background-repeat: no-repeat;
+	background-position: right;
+}
+
+.inp-normal{
+	border: 2px solid #DBDBDB;
+	border-radius: 5px;
+}
+.inp-small{
+	border: 2px solid #DBDBDB;
+	border-radius: 5px;
+	width: 15px;
+}
+
+.inp-normal:focus, .inp-small:focus{
+	border: 2px solid #AAAAAA;
+}
+
+.inp-textarea{
+	font-family: tahoma;
+	border: 1px solid #D9D9D9;
+	border-bottom: 2px solid #D9D9D9;
+	width: 486px;
+	height: 80px;
+	resize: none;
+}
+
+
+
+/* İnput Text Fon Settings */
+.inp-fontsize-small{
+	font-size: 9px;
+}
+.inp-fontsize-normal{
+	font-size: 12px;
+}
+.inp-fontsize-large{
+	font-size: 24px;
+}
