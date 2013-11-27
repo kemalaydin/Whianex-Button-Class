@@ -29,7 +29,7 @@ Yeni tanımlayacağınız alt özelliklerin tam anlamıyla çalışabilmesi, sor
 
 Bu sınıfları nesnelere atarken ;
 
-<a href="#" class="button but-blue">Button</a>
+< a    h r e f    =   "   #    "    c l a s s = " b u t t o n   b u t -b l u e " > Button < / a>
 
 Şeklinde tanımlanabilir. Sınıf yapılarının amacı kullanımı kolaylaştırmak ve aynı zamanda sistemde kod fazlalığını atmak olacağı için id ile işlemlerinini mümkün oldukça az tutmanızı öneririz.
 
