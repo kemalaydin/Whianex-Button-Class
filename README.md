@@ -13,7 +13,7 @@ Whianex sistemi içerisinde kendi has bir css sınıf yapılanması içermektedi
 
 .but but-blue but-large 
 
-Mümkün olduğunda core dosyalara müdahale edilmemesi gerekir. Yeni bir yapı oluşturmak için ana sınıfa altında alt özellik ekleyebilirsiniz. Örneğin sarı renkli bir buton eklemek için ;
+Mümkün olduğunca core dosyalara müdahale edilmemesi gerekir. Yeni bir yapı oluşturmak için ana sınıfa altında alt özellik ekleyebilirsiniz. Örneğin sarı renkli bir buton eklemek için ;
 
 .but but-yellow{
   background : yellow !important;
